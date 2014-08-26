@@ -100,5 +100,5 @@ og_site_name:   Victoria and Bradley Wedding Photos by Weditorial.co.nz
 ################################
 
 song:
-  autoplay: false
-  filename: christina_perri_-_a_thousand_years.mp3
+  autoplay: true
+  filename: foo_fighters_-_times_like_these_acoustic.mp3
